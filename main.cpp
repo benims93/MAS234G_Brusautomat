@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <vector>
-
+//heftig brusautomat da brur
 bool true_check(std::string question){
 	char x[100] = {0};
 	std::cout << question << std::endl << "y/n" << std::endl;
